@@ -1,1 +1,1 @@
-# example-repository
+# Example of README.md
